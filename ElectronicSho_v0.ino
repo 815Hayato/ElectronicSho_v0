@@ -469,7 +469,7 @@ void updateControl() {
 
 //再生用の関数
 AudioOutput_t updateAudio(){
-  outData = 0; //出力する電圧
+  outData = 0; //出力電圧
   if(play_status){ //active状態なら
 
     if(tone1_status){ //tone1のstatusがtrueなら

@@ -1,4 +1,6 @@
 # ElectronicSho_v0
+![Electronic_Sho_全体図](https://github.com/user-attachments/assets/44f45bae-adba-4fe5-b404-774aa6235526)
+
 ## 使用技術
 Arduino(C/C++),電子回路
 
